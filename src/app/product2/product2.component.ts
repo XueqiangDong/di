@@ -10,7 +10,7 @@ import {AnotherProductService} from '../shared/another-product.service';
   //   provide: ProductService, useClass: AnotherProductService}]
 })
 export class Product2Component implements OnInit {
-
+//测试git
   product: Product;
   // private productService: ProductService;
   //
